@@ -64,15 +64,15 @@ void loop() {
 int randomSeg;
 int randomSeg2;
 int randomSeg3;
-randomSeg = random(1,7);
+randomSeg = random(1,6);
 displayDigit(0);
 display7seg(randomSeg);
 delay(2000);
-randomSeg2 = random(1,7);
+randomSeg2 = random(1,6);
 displayDigit(1);
 display7seg(randomSeg2);
 delay(2000);
-randomSeg3 = random(1,7);
+randomSeg3 = random(1,6);
 displayDigit(2);
 display7seg(randomSeg3);
 delay(2000);
