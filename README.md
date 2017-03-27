@@ -10,4 +10,4 @@ link-youtube [Goto Videos](https://www.youtube.com/watch?v=hdXjSMcecSE).:+1: <br
 - **LAB04**-RANDOM [CODE LAB04](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB04/LAB04). <br>
 link-youtube [Goto Videos](https://www.youtube.com/watch?v=J9O3kzS8zHY).:+1: <br>
 - **LAB05**-RANDOM [CODE LAB05](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB05/LAB05). <br>
-link-youtube [Goto Videos](https://www.youtube.com/).:+1: <br>
+link-youtube [Goto Videos](https://www.youtube.com/watch?v=63B4K4EkAE8).:+1: <br>
