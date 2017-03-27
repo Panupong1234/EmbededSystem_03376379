@@ -5,5 +5,9 @@
 link-youtube [Goto Videos]( https://www.youtube.com/watch?v=MXU-09wCgFA).:+1: <br>
 **LAB02**-RANDOM [CODE LAB02](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB02/LAB02-Random). <br>
 link-youtube [Goto Videos](https://www.youtube.com/watch?v=iVWvsjDeMHc).:+1: <br>
-**LAB03**-RANDOM [CODE LAB02](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB03/LAB03-SwapDigit). <br>
+**LAB03**-RANDOM [CODE LAB03](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB03/LAB03-SwapDigit). <br>
 link-youtube [Goto Videos](https://www.youtube.com/watch?v=hdXjSMcecSE).:+1: <br>
+**LAB04**-RANDOM [CODE LAB04](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB04/LAB04). <br>
+link-youtube [Goto Videos](https://www.youtube.com/watch?v=J9O3kzS8zHY).:+1: <br>
+**LAB05**-RANDOM [CODE LAB05](https://github.com/Panupong1234/EmbededSystem_03376379/tree/master/LAB05/LAB05). <br>
+link-youtube [Goto Videos](https://www.youtube.com/).:+1: <br>
